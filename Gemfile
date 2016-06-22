@@ -51,4 +51,5 @@ gem 'capistrano-rails',   group: :development
 gem 'capistrano-bundler', group: :development
 
 gem 'therubyracer', platforms: :ruby
+gem 'dotenv-rails'
 

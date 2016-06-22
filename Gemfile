@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+gem 'capistrano',         group: :development
+gem 'capistrano-rbenv',   group: :development
+gem 'capistrano-rails',   group: :development
+gem 'capistrano-bundler', group: :development
+
+gem 'therubyracer', platforms: :ruby
+

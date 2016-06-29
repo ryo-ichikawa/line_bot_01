@@ -52,4 +52,7 @@ gem 'capistrano-bundler', group: :development
 
 gem 'therubyracer', platforms: :ruby
 gem 'dotenv-rails'
+gem 'faraday'
+gem 'faraday_middleware'
+
 

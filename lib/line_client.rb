@@ -19,8 +19,8 @@ class LineClient
   end
 
   END_POINT  = "https://trialbot-api.line.me"
-  TO_CHANNEL = "1441301333"
-  EVENT_TYPE = "138311609000106303"
+  TO_CHANNEL = "1383378250"
+  EVENT_TYPE = "138311608800106203"
 
   def initialize(channel_id, channel_secret, channel_mid, proxy = nil)
     @channel_id     = channel_id
